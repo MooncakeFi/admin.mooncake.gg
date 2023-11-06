@@ -1,6 +1,6 @@
 {
-  "name": "Volt React Dashboard",
-  "short_name": "Volt React Dashboard",
+  "name": "Admin Dashboard",
+  "short_name": "Admin Dashboard",
   "icons": [
     {
       "src": "/docs/4.3/assets/img/favicons/android-chrome-192x192.png",
